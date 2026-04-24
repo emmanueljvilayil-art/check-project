@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+shap
+fpdf2
+numpy
